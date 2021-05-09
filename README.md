@@ -8,14 +8,16 @@
 *Kickstarter campaigns to fund theatre, specifically plays, has the most success, followed by music. Quickly scanning the data, most campaigns were created 2016, and I’m curious if there’s any correlation between the number of campaigns and the decrease of funding allocated towards the performing arts in public education. Documentaries seem to do pretty well too. 
 * Faith and Jazz music are not too popular among the donors. All jazz music kick starters failed! People are more willing to fund rock music. 
 * All animation projects failed!
+
 **2. What are some limitations of this dataset?**
 * There’s only three months of live data. 
+
 **3. What are some other possible tables and/or graphs that we could create?**
  * Duration of campaign vs. # of backers, Status, % funded to see if longer campaigns raise more funds or if there are other factors, such as the category/sub-category  of project, advertising, 
 * Country/Locality of the project’s origin would be interesting to investigate to see if where the project is effects funding, # of backers, how much funding is needed, and also what kind of projects are coming from where. 
 * Of the successful projects, are there more backers with low average donations. 
-**4. Which category has the most/least backers, with the highest/lowest avg.**
 
+**4. Which category has the most/least backers, with the highest/lowest avg.**
 		Statistical Analysis
 	Successful Outcome	Failed Outcome
 Mean	194	18
